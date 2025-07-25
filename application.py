@@ -7,7 +7,6 @@ from flask_cors import CORS
 
 
 application = Flask(__name__)
-CORS(application) 
 app = application
 
 ## Import ridge regression and standard scaler
