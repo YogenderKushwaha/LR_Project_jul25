@@ -1,1 +1,7 @@
 ipykernel
+Flask
+pandas
+numpy
+scikit-learn
+npm
+
